@@ -1,4 +1,4 @@
-# R firts studies
+# R firt studies
 
 These repository is being constructed by a R learner! 
 
