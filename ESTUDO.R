@@ -42,7 +42,7 @@ mylist <- list(vec1, vec2, vec3, 20, list(vec1, vec2, vec3), mean)
 #Creating Data frames --> lists with vector with same lenght
 data.frame(vec1, vec2, vec3)
 data.frame(vec1, vec2)
-data.frame(vec2, vec3) #it's' is possible to name columns doing data.frame(a=vec1)
+data.frame(vec2, vec3) #it is possible to name columns doing data.frame(a=vec1)
 data.frame(a=vec1, b=vec2)
 data.frame(dogs=c("Dom", "Dim", "Tyler"), ages=c(2, 1, 0.75)) #u can crate the vectors inside the data frame
 df <- data.frame(vec1, vec2, vec3) #saving data frames
